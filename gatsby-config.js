@@ -16,7 +16,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: "works",
-        path: `${__dirname}\\src\\works.yaml`,
+        path: `${__dirname}/src/works.yaml`,
       }
     },
     "gatsby-plugin-react-helmet"
